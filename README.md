@@ -10,10 +10,10 @@ First create security profile for your product using amazon developer account
 ![copy id generated](https://user-images.githubusercontent.com/60012955/111496764-f25acf80-8716-11eb-87b0-62b7178f2835.PNG)
 
 Download dependencies on raspberry pi
-Build the SDK
-Build sample App
-Do microphone setup
-Register the device by login to amazon developer console
+Build the SDK,
+Build sample App,
+Do microphone setup,
+and register the device by login to amazon developer console
 
 ![REGISTERING DEVICE](https://user-images.githubusercontent.com/60012955/111496705-e7a03a80-8716-11eb-9151-f10dbcd9cd78.PNG)
 
