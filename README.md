@@ -5,3 +5,9 @@ First create security profile for your product using amazon developer account
 
 ![security profile 2](https://user-images.githubusercontent.com/60012955/111496277-8ed0a200-8716-11eb-819b-006a2dab22bc.PNG)
 
+![security profile 3](https://user-images.githubusercontent.com/60012955/111496642-dd7e3c00-8716-11eb-9ce9-188f3876b211.PNG)
+![REGISTERING DEVICE](https://user-images.githubusercontent.com/60012955/111496705-e7a03a80-8716-11eb-9151-f10dbcd9cd78.PNG)
+![aLEXA IDLE](https://user-images.githubusercontent.com/60012955/111496725-ea9b2b00-8716-11eb-8fc4-6f594092c2f9.PNG)
+![copy id generated](https://user-images.githubusercontent.com/60012955/111496764-f25acf80-8716-11eb-87b0-62b7178f2835.PNG)
+![creating url](https://user-images.githubusercontent.com/60012955/111496781-f555c000-8716-11eb-8956-a1ec35cba83b.PNG)
+![product](https://user-images.githubusercontent.com/60012955/111496803-f981dd80-8716-11eb-8152-7b696c27e99c.PNG)
