@@ -14,9 +14,11 @@ Build the SDK
 Build sample App
 Do microphone setup
 Register the device by login to amazon developer console
+
 ![REGISTERING DEVICE](https://user-images.githubusercontent.com/60012955/111496705-e7a03a80-8716-11eb-9151-f10dbcd9cd78.PNG)
 
 ![creating url](https://user-images.githubusercontent.com/60012955/111496781-f555c000-8716-11eb-8956-a1ec35cba83b.PNG)
+
 Once authorized alexa will be in its idle state and you can talk to it
 
 ![aLEXA IDLE](https://user-images.githubusercontent.com/60012955/111496725-ea9b2b00-8716-11eb-8fc4-6f594092c2f9.PNG)
